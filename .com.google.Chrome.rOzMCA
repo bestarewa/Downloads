@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["xWOvP"]); }
+
+__d("XAdsContentCardUnsaveFeatureController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/ads/ads_content_card/ads_content_card_unsave_feature/",{message_id:{type:"String"}})}),null);

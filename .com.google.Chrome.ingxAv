@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["6gCaf"]); }
+
+__d("AdsLWILoadingLeadGenFormsReducer",["AdsDataReducer","AdsLWILeadGenFormsDataProvider","AdsLWILoadingLeadGenFormsReducerPlugin"],(function(a,b,c,d,e,f){"use strict";a=b("AdsDataReducer").create(b("AdsLWILeadGenFormsDataProvider"),{},b("AdsLWILoadingLeadGenFormsReducerPlugin").reduce);e.exports=a}),null);

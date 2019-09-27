@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["S1mpU"]); }
+
+__d("AuthorPinnedCommentLogger",["AuthorPinnedCommentEvent","AuthorPinnedCommentsTypedLogger"],(function(a,b,c,d,e,f){"use strict";__p&&__p();a.prototype.logPinningCommentAttempt=function(a){this.$1(a,b("AuthorPinnedCommentEvent").PINNING_ATTEMPT)};a.prototype.logUnpinningCommentAttempt=function(a){this.$1(a,b("AuthorPinnedCommentEvent").UNPINNING_ATTEMPT)};a.prototype.logReplacingPinnedCommentAttempt=function(a){this.$1(a,b("AuthorPinnedCommentEvent").REPLACING_ATTEMPT)};a.prototype.$1=function(a,event){new(b("AuthorPinnedCommentsTypedLogger"))().setCommentID(a).setEvent(event).log()};function a(){}e.exports=new a()}),null);

@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["6jjIL"]); }
+
+__d("AdsLWILeadGenForm",["immutable"],(function(a,b,c,d,e,f){"use strict";var g;c=b("immutable").Record({context_card_content:undefined,context_card_title:undefined,created_time:undefined,follow_up_action_url:undefined,id:undefined,locale:undefined,name:undefined,page_id:undefined,page_name:undefined,privacy_policy:undefined,status:undefined,user_info_questions:undefined});g=babelHelpers.inherits(a,c);g&&g.prototype;function a(){g.apply(this,arguments)}e.exports=a}),null);

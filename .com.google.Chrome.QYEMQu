@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["P3cpb"]); }
+
+__d("AuthorPinnedCommentEvent",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({COMMENT_PINNED:"comment_pinned",PINNED_COMMENT_REPLACED:"pinned_comment_replaced",COMMENT_UNPINNED:"comment_unpinned",PINNING_ATTEMPT:"pinning_attempt",REPLACING_ATTEMPT:"replacing_attempt",UNPINNING_ATTEMPT:"unpinning_attempt"})}),null);
